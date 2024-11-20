@@ -2,10 +2,6 @@
 
 <!-- ![SageLedger Logo](public/sageledger2.jpeg) -->
 
-![SageLedger landing](imgs/landing.png)
-![SageLedger chat](imgs/chat.png)
-
-
 ## Overview:
 SageLedger is an AI-powered cryptocurrency wallet designed to simplify web3 transactions using natural language processing. Built with Okto wallet and AI technology, SageLedger aims to make crypto accessible to all.
 
