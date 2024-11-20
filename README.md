@@ -1,6 +1,6 @@
 # SageLedger
 
-<!-- ![SageLedger Logo](public/sageledger_logo.jpeg) -->
+<!-- ![SageLedger Logo](public/sageledger2.jpeg) -->
 
 ![SageLedger landing](imgs/landing.png)
 ![SageLedger chat](imgs/chat.png)

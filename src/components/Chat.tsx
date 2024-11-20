@@ -88,7 +88,7 @@ export function MessageRouter({ message, index }) {
             userName="User"
             aiName="SageLedger"
             userAvatar="/user_logo3.png"
-            aiAvatar="/sageledger_logo.jpeg"
+            aiAvatar="/sageledger2.jpeg"
           />
         );
       }
@@ -101,7 +101,7 @@ export function MessageRouter({ message, index }) {
             userName="User"
             aiName="SageLedger"
             userAvatar="/user_logo3.png"
-            aiAvatar="/sageledger_logo.jpeg"
+            aiAvatar="/sageledger2.jpeg"
           />
         );
       }
@@ -120,7 +120,7 @@ export function MessageRouter({ message, index }) {
         userName="User"
         aiName="SageLedger"
         userAvatar="/user_logo3.png"
-        aiAvatar="/sageledger_logo.jpeg"
+        aiAvatar="/sageledger2.jpeg"
       />
     );
   }
@@ -134,7 +134,7 @@ export function MessageRouter({ message, index }) {
       userName="User"
       aiName="SageLedger"
       userAvatar="/user_logo3.png"
-      aiAvatar="/sageledger_logo.jpeg"
+      aiAvatar="/sageledger2.jpeg"
     />
   );
 }

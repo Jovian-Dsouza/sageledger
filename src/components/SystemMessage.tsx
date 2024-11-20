@@ -26,7 +26,7 @@ function PoweredBy({ poweredby }) {
 }
 
 function SystemMesage({ children, title, onConfirm, poweredBy }: any) {
-  const avatar = "/sageledger_logo.jpeg";
+  const avatar = "/sageledger2.jpeg";
   const displayName = "SageLedger";
 
   return (
